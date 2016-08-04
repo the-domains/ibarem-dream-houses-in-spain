@@ -1,16 +1,20 @@
-typography_spectrum: 0.30165996798314154
+typography_spectrum: 0.9397728522308171
 color:
-  brandStrength: 0.019571518059819937
-  lightness: 0.8416433576494455
-  saturation: 0.5767587979789823
-  rhythmicContrast: 0.06486127618700266
+  brandStrength: 0.896524915471673
+  lightness: 0.422042973106727
+  saturation: 0.6791790470015258
+  rhythmicContrast: 0.5277997546363622
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
-layout_spectrum: 0.733806170290336
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.19761211844161153
 name: IBAREM - dream houses in spain
+navigation:
+  - name: Welcome
+    id: b4d79cc3-71e2-405e-9d0d-7b800625db65
+    type: content
 title: Your building partner in Spain
 description: We Design & Develop Your New Dream House
