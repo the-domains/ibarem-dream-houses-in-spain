@@ -1,16 +1,16 @@
-typography_spectrum: 0.9397728522308171
+typography_spectrum: 0.775275869295001
 color:
-  brandStrength: 0.896524915471673
-  lightness: 0.422042973106727
-  saturation: 0.6791790470015258
-  rhythmicContrast: 0.5277997546363622
+  brandStrength: 0.3968946437817067
+  lightness: 0.9684092956595123
+  saturation: 0.3440230346750468
+  rhythmicContrast: 0.7559035399463028
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.19761211844161153
+    - '#1A1A1A'
+    - '#476F88'
+    - '#BCB3AA'
+    - '#7392A7'
+    - '#D0D9DE'
+layout_spectrum: 0.8078714520670474
 name: IBAREM - dream houses in spain
 navigation:
   - name: Welcome
