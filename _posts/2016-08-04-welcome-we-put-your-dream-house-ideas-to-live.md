@@ -5,18 +5,17 @@ description: >-
   created in close cooperation between a family who have a dream and IBAREM is
   your partner I this new travel, who have the understanding, experience and
   expertise to realize the dream in save hands, time and economy.
-dateModified: '2016-08-04T17:53:42.374Z'
-datePublished: '2016-08-04T17:54:06.184Z'
+dateModified: '2016-08-04T17:55:21.899Z'
+datePublished: '2016-08-04T17:55:22.528Z'
 title: 'Welcome, we put your dream house ideas to live'
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-welcome-we-put-your-dream-house-ideas-to-live.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: welcome-we-put-your-dream-house-ideas-to-live/index.html
+_type: Blurb
 
 ---
 # Welcome, we put your dream house ideas to live
