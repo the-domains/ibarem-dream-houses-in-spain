@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T18:10:54.539Z'
+datePublished: '2016-08-10T16:50:39.021Z'
 sourcePath: >-
   _posts/2016-04-16-space-odyssey-photographer-thomas-ruff-heads-to-the-moon-wi.md
 inFeed: true
@@ -19,23 +19,13 @@ keywords:
   - '10011'
   - '2070'
 related: []
-author:
-  - name: ''
-    url: ''
+author: []
 via: {}
-dateModified: '2016-08-04T18:10:54.008Z'
-title: Where
+dateModified: '2016-08-10T16:50:38.517Z'
+title: ''
 app_links: []
-publisher:
-  name: Wallpaper*
-  domain: www.wallpaper.com
-  url: 'http://www.wallpaper.com'
-  favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
-description: >-
-  The Düsseldorf photographer Thomas Ruff is having his day in the sun, with the
-  Art Gallery of Ontario's 'Object Relations', a major solo show, opening this
-  month. Closer to home, Chelsea's David Zwirner Gallery is celebrating Ruff's
-  latest series of work.
+publisher: {}
+description: 'Welcome, we bring your dream house ideas to live'
 inLanguage: en
 inNav: false
 starred: false
@@ -43,11 +33,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d779832-7945-4250-8a6a-baa2e3b7c07e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36e36398-08fd-446b-b759-162f86af52ae.png)
 
-> **Where**
-> 
-> IBAREM geographical area of operation in Spain covers the whole Mediterranean coast but with bases in Valencia, Alicante and Mallorca a special focus in on the whole of the Costa Blanca Costa, Balearic Islands as Mallorca & Ibiza plus in land of Valencia.
+Welcome, we bring your dream house ideas to live
+
+> Your dream is something special. At IBAREM we know that, and we love that your family and your dream house can unfold completely. Each house we build is created in close cooperation between a family who have a dream and IBAREM is your partner I this new travel, who have the understanding, experience and expertise to realize the dream in save hands, time and economy.
 
 > **Mediterranean essence with a twist**
 > 
