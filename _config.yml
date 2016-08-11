@@ -1,16 +1,16 @@
-typography_spectrum: 0.5670665968209505
+typography_spectrum: 0.68945083161816
 color:
-  brandStrength: 0.2874414708930999
-  lightness: 0.515475666616112
-  saturation: 0.04666826291941106
-  rhythmicContrast: 0.44644839596003294
+  brandStrength: 0.7255492224358022
+  lightness: 0.6787751414813101
+  saturation: 0.4582788934931159
+  rhythmicContrast: 0.7445717065129429
   brandColors:
-    - '#DBD5C5'
-    - '#A49E92'
-    - '#877F72'
-    - '#FFFFFA'
-    - '#716952'
-layout_spectrum: 0.5552736329846084
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.5845489569474012
 author:
   name: Casper
   email: casper@ibarem.com
